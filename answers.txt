@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: Using Git can help us to keep a log of all the changes
+we make in our code. This will allow us to save backups in case something
+goes wrong. Using Git will also allow you to share code with others so
+that we can code with groupmates like for our project at the end of the
+semester.
