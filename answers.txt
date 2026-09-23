@@ -18,3 +18,9 @@ Answer: Merging is when different branches with different content that are
 initially split apart get merged together to become one. Rebasing on the other 
 hand, rewrites the history so that it looks like one straight timeline instead
 split up branches.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm excited to be able to primarily focus on classes relating to my 
+major now since most of my general education requirements are over. I'm also
+excited to be able to work with my groupmates that I just met this semester!
