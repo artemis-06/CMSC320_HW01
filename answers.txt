@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to many fields, but some that we mentioned
+in class was with medicine, when making decisions based on data in science, and 
+to make more educated decisions in general.
